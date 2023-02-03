@@ -1,0 +1,10 @@
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+de3d4b67d9f7f3d9
+file1.txt
+file3.txt
+file7.yml
+fileobj.txt
+myfile1.txt
+mytext.txt
